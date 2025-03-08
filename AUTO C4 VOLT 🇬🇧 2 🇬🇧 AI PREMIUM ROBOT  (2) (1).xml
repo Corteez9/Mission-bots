@@ -173,7 +173,7 @@
                                             <value name="MESSAGE">
                                               <shadow type="text" id="dE0!H@-VLt8euErM0.$/">
                                                 <field name="TEXT">abc</field>
-                                              </shadow>
+                                              <field  FALSE GTE Profit TargetProfit text THE HAVOC [BY PK]
                                               <block type="variables_get" id="OAiB{vz?j]n)zJEE~f:8" collapsed="true">
                                                 <field name="VAR" id=";fEO(8M(0+/Ty=rD%[8;" variabletype="">text</field>
                                               </block>
